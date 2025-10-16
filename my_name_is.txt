@@ -1,13 +1,14 @@
 Hi my name is:
-
+Eddy				
 I am majoring in: 
-
+Electrical Engineering
 Today's date is:
-
+10/16/2025
 On a scale from (1-5)
 the level I am enjoying 
 this workshop is: 
-
+5
 I would attend an
 intermediate Git workshop (Y/N): 
 
+Y
